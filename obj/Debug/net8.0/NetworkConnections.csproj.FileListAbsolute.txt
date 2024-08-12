@@ -1,0 +1,14 @@
+C:\Users\ksfuh\NetworkConnections\bin\Debug\net8.0\NetworkConnections.exe
+C:\Users\ksfuh\NetworkConnections\bin\Debug\net8.0\NetworkConnections.deps.json
+C:\Users\ksfuh\NetworkConnections\bin\Debug\net8.0\NetworkConnections.runtimeconfig.json
+C:\Users\ksfuh\NetworkConnections\bin\Debug\net8.0\NetworkConnections.dll
+C:\Users\ksfuh\NetworkConnections\bin\Debug\net8.0\NetworkConnections.pdb
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\NetworkConnections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\NetworkConnections.AssemblyInfoInputs.cache
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\NetworkConnections.AssemblyInfo.cs
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\NetworkConnections.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\NetworkConnections.dll
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\refint\NetworkConnections.dll
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\NetworkConnections.pdb
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\NetworkConnections.genruntimeconfig.cache
+C:\Users\ksfuh\NetworkConnections\obj\Debug\net8.0\ref\NetworkConnections.dll
